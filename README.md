@@ -1,2 +1,6 @@
 # Barbearia-Alura
-Criando uma Barbearia 
+
+
+Barbearia Criada Utilizando HTML, CSS e JS.
+
+https://carlos513698.github.io/Barbearia-Alura/Barbearia/
